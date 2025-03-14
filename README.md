@@ -1,4 +1,4 @@
-# Project 2: Goal Lab
+# Goal Lab
 
 https://goallabdb.web.app/
 
